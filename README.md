@@ -1,6 +1,6 @@
 # nuxeo-webengine-easyshare-style-override
 
-Plugin overriding the **CSS** and images used in `nuxeo-easyshare`'s **download page**.
+Plugin overriding the **CSS** and images used in `nuxeo-easyshare` addon's **download page**.
 
 # Requirements
 
