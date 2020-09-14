@@ -1,0 +1,8 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: org.acme.nuxeo
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-webengine-easyshare-style-override-jsf
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.acme.nuxeo.nuxeo-webengine-easyshare-style-override-jsf;singleton=true
